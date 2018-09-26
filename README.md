@@ -9,7 +9,7 @@ Installing Recurr
 
 The recommended way to install Recurr is through [Composer](http://getcomposer.org).
 
-`composer require simshaun/recurr`
+`composer require selfworks/recurr`
 
 Using Recurr 
 -----------
