@@ -29,10 +29,5 @@
 			"Recurr\\": "src/Recurr/",
 			"Recurr\\Test\\": "tests/"
 		}
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "3.0.8"
-		}
 	}
 }
